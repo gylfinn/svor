@@ -1,0 +1,2 @@
+# svor
+Svor við Spurningum
